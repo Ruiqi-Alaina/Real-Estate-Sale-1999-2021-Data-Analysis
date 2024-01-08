@@ -17,3 +17,7 @@ The dataset was released by the office of Policy and Management in the United St
 * [PowerBI dashboard](https://github.com/Ruiqi-Alaina/Real-Estate-Sale-1999-2021-Data-Analysis/blob/main/Real%20estate%20sale%20data%20analysis.pbix)<br>
   Present the results in dashboard for stakeholders
 ## Conclusion
+* Both assessed value and sale amount increase as year goes by. And real-estate market is to some extent underestimated which can be indicated by comparing the assessed value and sale amount especially in 2020, 2021.
+* Trends in real-estate assessed value and sale prices were clearly demonstrated in the Power BI dashboard. We **calcuated the growth rate in sale prices** and found the **top 5** towns with best growth potiential are Windsor, North Stonington, North Haven, Willington and Roxbury.
+* Single Family has the biggest demand in residential properties following by Four Family.
+* Properties for industry have the highest median price which are almost twice the value of commecial properties and apartments.
