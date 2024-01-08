@@ -14,8 +14,9 @@ The dataset was released by the office of Policy and Management in the United St
   sale prices less than 2000 dollars. This might be caused by misrecording. When it comes to property type and residential type,
   we cloud find some values of the property type are wrongly replaced by the residental type and vice versa. For single/two/three/four family under property type, we should replace them with 'residential'. And for 'condo' under residental type should be filled with NULL. Another point that needs to be aware of is the null values in 'Residential Type' are caused by their corresponding 'Property Type'.
  Moreover, the schema of some of the attibutes was changed for further data analysis. Finally, some statistics were computed for answering the business questions.
-* [PowerBI dashboard](https://github.com/Ruiqi-Alaina/Real-Estate-Sale-1999-2021-Data-Analysis/blob/main/Real%20estate%20sale%20data%20analysis.pbix)<br>
-  Present the results in dashboard for stakeholders
+* [PowerBI dashboard PDF](https://github.com/Ruiqi-Alaina/Real-Estate-Sale-1999-2021-Data-Analysis/blob/main/Real%20estate%20sale%20data%20analysis.pdf)
+* [PowerBI dashboard PBIX](https://github.com/Ruiqi-Alaina/Real-Estate-Sale-1999-2021-Data-Analysis/blob/main/Real%20estate%20sale%20data%20analysis.pbix)
+  <br>Present the results in dashboard for stakeholders
 ## Conclusion
 * Both assessed value and sale amount increase as year goes by. And real-estate market is to some extent underestimated which can be indicated by comparing the assessed value and sale amount especially in 2020, 2021.
 * Trends in real-estate assessed value and sale prices were clearly demonstrated in the Power BI dashboard. We **calcuated the growth rate in sale prices** and found the **top 5** towns with best growth potiential are Windsor, North Stonington, North Haven, Willington and Roxbury.
